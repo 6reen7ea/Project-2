@@ -63,7 +63,3 @@ Credentials are **NOT** committed to the repo — set them with environment vari
 
 *(Full query outputs, tables and charts live inside the notebook.)*
 
----
-
-## Repository Structure  
-
